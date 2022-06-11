@@ -1,0 +1,4 @@
+A has rank: 0.28125.
+B has rank: 0.166015625.
+C has rank: 0.24609375.
+D has rank: 0.306640625.
